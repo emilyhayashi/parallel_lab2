@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 #include <omp.h>
+#include <string.h>
 
 //declare global variables and functions
 int *primes;
